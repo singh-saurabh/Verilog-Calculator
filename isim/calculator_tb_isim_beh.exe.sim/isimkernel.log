@@ -1,0 +1,10 @@
+Command line:
+   calculator_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  4
+     -socket  60527
+
+Sun Oct  7 19:31:10 2018
+
+
+ Elaboration Time: 0.01 sec
